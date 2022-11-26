@@ -1,4 +1,4 @@
-import { color, select } from "d3";
+import { select } from "d3";
 
 export function run(container: HTMLElement) {
   select(container)
